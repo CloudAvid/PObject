@@ -2,9 +2,9 @@
 
 PObject introduces a method that called XObject. XObject defines a real world as a set of objects and their connections. This method help you to reduce complexity of design and to increase system flexibility and stability.
 
-PObject is an object based on [XParam](https://github.com/pdnsoft/PParam/wiki/XParam) and [XISetParam](https://github.com/pdnsoft/PParam/wiki/XParam#22_XISetParam) featuers.
+PObject is an object based on [XParam](https://github.com/CloudAvid/PParam/wiki/XParam) and [XISetParam](https://github.com/CloudAvid/PParam/wiki/XParam#22_XISetParam) featuers.
 
-By PObject, developers define common attributes and abilities of an object that would be stored by [XISetParam](https://github.com/pdnsoft/PParam/wiki/XParam#22_XISetParam).
+By PObject, developers define common attributes and abilities of an object that would be stored by [XISetParam](https://github.com/CloudAvid/PParam/wiki/XParam#22_XISetParam).
 
 Any try to develop PObject is welcome.
 
@@ -29,7 +29,7 @@ Use pkg-config to discover the necessary include and linker arguments. For insta
 $ pkg-config libpobject-1.0 --cflags –libs
 ```
 # Documentation
-Our wiki contains several [tutorials](https://github.com/pdnsoft/PObject/wiki) on how to use PObject.
+Our wiki contains several [tutorials](https://github.com/CloudAvid/PObject/wiki) on how to use PObject.
 
 # Contributing Code
 If you are capable of contributing code changes, we encourage you to do so. You can help us in different fields:
@@ -39,6 +39,6 @@ If you are capable of contributing code changes, we encourage you to do so. You 
 * ... 
 
 # Bugs
- Please use github [issues](https://github.com/pdnsoft/PObject/issues) to report bugs. 
+ Please use github [issues](https://github.com/CloudAvid/PObject/issues) to report bugs. 
 # About
-Copyright 2010-2017 [PDNSoft Co.](http://www.pdnsoft.com), released under the GPL license
+Copyright 2010-2020 [CloudAvid](https://www.cloudavid.com), released under the GPL license
